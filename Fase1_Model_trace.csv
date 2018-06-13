@@ -1,0 +1,8 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.207864378589127,--,--,--,--,Destroying entity with seized resources
+0.207864378589127,--,--,--,--,"Entity 'DefaultEntity.48' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+0.250665508802147,--,--,--,--,Destroying entity with seized resources
+0.250665508802147,--,--,--,--,"Entity 'DefaultEntity.49' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+0.371309114919663,--,--,--,--,Destroying entity with seized resources
+0.371309114919663,--,--,--,--,"Entity 'DefaultEntity.51' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+
